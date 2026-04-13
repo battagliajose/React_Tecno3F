@@ -1,12 +1,15 @@
-import './App.css'
+import "./App.css";
+import CardGrid from "./components/CardGrid.jsx";
+import CustomHeader from "./components/CustomHeader.jsx";
+import { catalogo } from "./data/data.js";
 
 function App() {
-
   return (
     <>
-      <h1>APP</h1>
+      <CustomHeader />
+      <CardGrid />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
