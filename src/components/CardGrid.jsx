@@ -1,10 +1,12 @@
+import "../styles/card-grid.css";
 import ItemCard from "./ItemCard";
 
-export default function CardGrid() {
+export default function CardGrid({ catalogo, onSetFavorito }) {
   return (
     <div className="card-grid">
-      <h3>Catálogo de Juegos</h3> {/* Aquí irán las tarjetas de los juegos */}
-      <ItemCard />
+      {catalogo.map((card) => (
+        <ItemCard key={card.id} card={card} onSetFavorito={onSetFavorito} />
+      ))}
     </div>
   );
 }
