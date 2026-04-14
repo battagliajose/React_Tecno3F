@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #1c8121;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width: 60%;
+  border-radius: 45px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)),
+    url("../assets/header-bg.webp");
+}
+
+header img {
+  height: 100px;
+  vertical-align: middle;
+}
