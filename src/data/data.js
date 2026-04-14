@@ -6,7 +6,7 @@ export const catalogo = [
     anio: 2015,
     destacado: false,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/1/13/Rocket_League_coverart.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlSsGuW8NOk2w-YDbyu1f7ygdDeW8SK16Aw&s",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const catalogo = [
     anio: 2013,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg",
+      "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/02/warframe-tag-page-cover-art.jpg?q=50&fit=contain&w=480&dpr=1.5",
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ export const catalogo = [
     anio: 2017,
     destacado: false,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+      "https://store-images.s-microsoft.com/image/apps.58959.13847644057609868.8865d2a2-5e11-4424-85ce-1db30a161bd9.41ca3834-331c-4d34-b2c9-7dfe318fd168",
   },
   {
     id: 5,
@@ -41,7 +41,7 @@ export const catalogo = [
     anio: 2013,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/7/7a/Attack_on_Titan_cover.jpg",
+      "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/5/53/Primera_temporada_%28parte_1%29.png/revision/latest?cb=20181015211526&path-prefix=es",
   },
   {
     id: 6,
@@ -50,7 +50,7 @@ export const catalogo = [
     anio: 2011,
     destacado: false,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+      "https://store-images.s-microsoft.com/image/apps.808.14492077886571533.be42f4bd-887b-4430-8ed0-622341b4d2b0.c8274c53-105e-478b-9f4b-41b8088210a3?q=90&w=512&h=768&mode=crop&format=jpg&background=%23FFFFFF",
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ export const catalogo = [
     anio: 2016,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/0/0a/My_Hero_Academia_Volume_1.png",
+      "https://static.wikia.nocookie.net/personajes-de-ficcion-database/images/6/60/Boku_no_Hero_Academia.jpg/revision/latest/scale-to-width-down/340?cb=20200930225207&path-prefix=es",
   },
   {
     id: 8,
@@ -68,7 +68,7 @@ export const catalogo = [
     anio: 2022,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMWNlMDBiYzYtMWMyMC00Zjc5LTlhMjItMjRlMzBmYmVkOGM0XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
   },
   {
     id: 9,
@@ -77,7 +77,7 @@ export const catalogo = [
     anio: 2014,
     destacado: false,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/9/90/Seven_Deadly_Sins_vol_1.png",
+      "https://tiendaotakuplace.com/wp-content/uploads/2020/03/Nanatsu-no-Taizai-anime-image-785.jpg",
   },
   {
     id: 10,
@@ -86,7 +86,7 @@ export const catalogo = [
     anio: 2016,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
   },
   {
     id: 11,
@@ -95,7 +95,7 @@ export const catalogo = [
     anio: 2019,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/9/90/Kimetsu_no_Yaiba_Volume_1.png",
+      "https://preview.redd.it/why-did-you-start-watching-kimetsu-no-yaiba-v0-qhfukruuf6rd1.jpeg?width=640&crop=smart&auto=webp&s=ac3ff2c6338b57901ed87de062493e8bb6a562c1",
   },
   {
     id: 12,
@@ -104,7 +104,7 @@ export const catalogo = [
     anio: 2020,
     destacado: false,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
   },
   {
     id: 13,
@@ -113,7 +113,7 @@ export const catalogo = [
     anio: 2006,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg",
+      "https://static.wikia.nocookie.net/doblaje/images/9/92/DNPoster.png/revision/latest?cb=20170331004301&path-prefix=es",
   },
   {
     id: 14,
@@ -122,7 +122,7 @@ export const catalogo = [
     anio: 2018,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+      "https://i.blogs.es/juegos/13424/red_dead_3__nombre_temporal_/fotos/maestras/red_dead_3__nombre_temporal_-4030936.jpg",
   },
   {
     id: 15,
@@ -130,7 +130,8 @@ export const catalogo = [
     categoria: "Anime/Aventura",
     anio: 1999,
     destacado: false,
-    imagen: "https://upload.wikimedia.org/wikipedia/en/2/2e/One_Piece_1.png",
+    imagen:
+      "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg",
   },
   {
     id: 16,
@@ -139,7 +140,7 @@ export const catalogo = [
     anio: 2020,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
+      "https://static.wikia.nocookie.net/hades/images/a/a0/Hades_Pack_Art.png/revision/latest?cb=20210328173729&path-prefix=es",
   },
   {
     id: 17,
@@ -148,7 +149,7 @@ export const catalogo = [
     anio: 2007,
     destacado: false,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/7/7d/Naruto_Shippuden_logo.png",
+      "https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_.jpg",
   },
   {
     id: 18,
@@ -157,7 +158,7 @@ export const catalogo = [
     anio: 2017,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/a/a2/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/250px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
   },
   {
     id: 19,
@@ -175,7 +176,7 @@ export const catalogo = [
     anio: 2018,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjJiNTFhY2QtNzZkYi00MDNiLWEzNGEtNWE1NzBkOWIxNmY5XkEyXkFqcGc@._V1_.jpg",
   },
   {
     id: 21,
@@ -184,7 +185,7 @@ export const catalogo = [
     anio: 2019,
     destacado: false,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/header.jpg",
+      "https://store-images.s-microsoft.com/image/apps.6937.14482474285447263.b2785fbb-9099-42c3-b705-629a79ac7e4a.1b3fdd25-f787-4146-8551-d00ad4d5be21",
   },
   {
     id: 22,
@@ -193,7 +194,7 @@ export const catalogo = [
     anio: 2011,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/3/3e/Hunter_x_Hunter_Volume_1.png",
+      "https://m.media-amazon.com/images/M/MV5BYzYxOTlkYzctNGY2MC00MjNjLWIxOWMtY2QwYjcxZWIwMmEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   },
   {
     id: 23,
@@ -202,7 +203,7 @@ export const catalogo = [
     anio: 2009,
     destacado: false,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png",
+      "https://m.media-amazon.com/images/M/MV5BMmEzYzQ2ZGQtNmU2NC00ZDFkLTg4NWItNDQwZGM0OTlkMWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   },
   {
     id: 24,
@@ -211,7 +212,7 @@ export const catalogo = [
     anio: 2020,
     destacado: false,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/f/fc/Valorant_logo_-_pink_color_version.svg",
+      "https://store-images.s-microsoft.com/image/apps.21507.13663857844271189.4c1de202-3961-4c40-a0aa-7f4f1388775a.20ed7782-0eda-4f9d-b421-4cc47492edc6",
   },
   {
     id: 25,
@@ -220,7 +221,7 @@ export const catalogo = [
     anio: 2011,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/4/4f/Steins%3BGate_visual_novel_cover.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_.jpg",
   },
   {
     id: 26,
@@ -229,7 +230,7 @@ export const catalogo = [
     anio: 2015,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+      "https://store-images.s-microsoft.com/image/apps.53717.65858607118306853.39ed2a08-df0d-4ae1-aee0-c66ffb783a34.80ba72da-abfb-4af6-81f2-a443d12fb870",
   },
   {
     id: 27,
@@ -238,7 +239,7 @@ export const catalogo = [
     anio: 1989,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/0/0b/Dragon_Ball_Z_DVD_vol_1.jpg",
+      "https://m.media-amazon.com/images/M/MV5BN2VlNTdlMzQtYzE5OC00YmYwLTgyZTItYjEzMWY0ZDNjMTJhXkEyXkFqcGc@._V1_.jpg",
   },
   {
     id: 28,
@@ -247,7 +248,7 @@ export const catalogo = [
     anio: 2018,
     destacado: false,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Celeste_box_art_full.png/250px-Celeste_box_art_full.png",
   },
   {
     id: 29,
@@ -255,7 +256,8 @@ export const catalogo = [
     categoria: "Puzzles",
     anio: 2011,
     destacado: true,
-    imagen: "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+    imagen:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Portal2cover.jpg/250px-Portal2cover.jpg",
   },
   {
     id: 30,
@@ -264,7 +266,7 @@ export const catalogo = [
     anio: 1995,
     destacado: true,
     imagen:
-      "https://upload.wikimedia.org/wikipedia/en/4/4f/Neon_Genesis_Evangelion.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGRiOWQyOTAtZDQ0Ny00NGRiLWIyYTYtZWM1MjNjNzg0ZjE3XkEyXkFqcGc@._V1_.jpg",
   },
   {
     id: 31,
@@ -273,7 +275,7 @@ export const catalogo = [
     anio: 2019,
     destacado: false,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1f4hz.jpg",
   },
   {
     id: 32,
@@ -282,7 +284,7 @@ export const catalogo = [
     anio: 2023,
     destacado: true,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+      "https://production-gameflipusercontent.fingershock.com/us-east-1:3bc19f5b-d4b5-4a55-bfd0-f2c0f71514b2/4c462ce0-652d-4e52-8a27-59b9ab86cab2/f5edc42f-57d5-43db-8556-ddfb1be5d287",
   },
   {
     id: 33,
@@ -309,6 +311,6 @@ export const catalogo = [
     anio: 2011,
     destacado: false,
     imagen:
-      "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+      "https://static.wikia.nocookie.net/terraria/images/f/fc/Console_1.3.png/revision/latest?cb=20190903041935&path-prefix=es",
   },
 ];
