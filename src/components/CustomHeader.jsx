@@ -5,7 +5,7 @@ export default function CustomHeader() {
   return (
     <header>
       <img src={gamerlogo} alt="Logo Gamer" />
-      <h1>Tecno.3F - Catálogo</h1>
+      <h1>Tecno.3F - Games&Anime Catalogue</h1>
       <img src={gamerlogo} alt="Logo Gamer" />
     </header>
   );
