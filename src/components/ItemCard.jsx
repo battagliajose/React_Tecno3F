@@ -16,7 +16,6 @@ export default function ItemCard({ card, onSetFavorito }) {
           src={card.favorito ? heartFilled : heartEmpty}
           alt="Favorito"
           onClick={() => onSetFavorito(card.id)}
-          style={{ cursor: "pointer" }}
         />
         <br />
         <h3>{card.titulo}</h3>
