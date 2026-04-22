@@ -21,17 +21,17 @@ export default function MainContent() {
     );
   };
 
-  const handlersOnSearch = (event) => {
+  const handlerOnSearch = (event) => {
     setTextoBusqueda(event.target.value.toLowerCase());
   };
 
   const catalogoFiltrado = catalogoConFavoritos.filter((item) =>
-    item.titulo.toLowerCase().includes(textoBusqueda),
+    (item.titulo || "").toLowerCase().includes(textoBusqueda),
   );
 
   return (
     <main>
-      <Search onChange={handlersOnSearch} />
+      <Search onChange={handlerOnSearch} />
       <CardGrid catalogo={catalogoFiltrado} onSetFavorito={handleSetFavorito} />
     </main>
   );
